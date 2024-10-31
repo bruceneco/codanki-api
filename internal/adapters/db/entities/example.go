@@ -1,7 +1,7 @@
 package entities
 
 import (
-	"go-template/internal/adapters/db/entities/columns"
+	"codanki-api/internal/adapters/db/entities/columns"
 )
 
 type Example struct {

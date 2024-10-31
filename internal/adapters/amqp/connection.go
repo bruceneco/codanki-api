@@ -1,8 +1,8 @@
 package amqp
 
 import (
+	"codanki-api/config"
 	"context"
-	"go-template/config"
 
 	"github.com/rs/zerolog/log"
 	"github.com/wagslane/go-rabbitmq"

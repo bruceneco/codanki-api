@@ -1,8 +1,8 @@
 package consumers
 
 import (
+	"codanki-api/internal/adapters/amqp"
 	"context"
-	"go-template/internal/adapters/amqp"
 
 	"github.com/rs/zerolog/log"
 	"github.com/wagslane/go-rabbitmq"

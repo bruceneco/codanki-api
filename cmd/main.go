@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-template/config"
-	"go-template/internal/adapters"
+	"codanki-api/config"
+	"codanki-api/internal/adapters"
 
 	"github.com/ipfans/fxlogger"
 	"github.com/rs/zerolog/log"

@@ -1,9 +1,9 @@
 package adapters
 
 import (
-	"go-template/internal/adapters/amqp"
-	"go-template/internal/adapters/db/postgres"
-	"go-template/internal/adapters/http"
+	"codanki-api/internal/adapters/amqp"
+	"codanki-api/internal/adapters/db/postgres"
+	"codanki-api/internal/adapters/http"
 
 	"go.uber.org/fx"
 )

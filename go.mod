@@ -1,4 +1,4 @@
-module go-template
+module codanki-api
 
 go 1.23.2
 

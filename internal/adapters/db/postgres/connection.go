@@ -1,8 +1,8 @@
 package postgres
 
 import (
-	"go-template/config"
-	"go-template/internal/adapters/db/entities"
+	"codanki-api/config"
+	"codanki-api/internal/adapters/db/entities"
 
 	"github.com/rs/zerolog/log"
 	psql "gorm.io/driver/postgres"

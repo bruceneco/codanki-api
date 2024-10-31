@@ -1,8 +1,8 @@
 package http
 
 import (
+	"codanki-api/config"
 	"context"
-	"go-template/config"
 	"time"
 
 	"github.com/gofiber/contrib/fiberzerolog"
